@@ -24,4 +24,3 @@ Through visualizations and calculated returns, the notebook concludes with valua
 
 ---
 
-Feel free to modify or add more details to this README to better suit your analysis and presentation style!
